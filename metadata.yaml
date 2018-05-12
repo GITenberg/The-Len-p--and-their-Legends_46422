@@ -1,0 +1,45 @@
+_repo: The-Len-p--and-their-Legends_46422
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Rafinesque, C. S. (Constantine Samuel)
+    aliases:
+    - Jobson, Constantine
+    - Rafinesque, Constantine Samuel
+    - Rafinesque-Schmaltz, Constantine Samuel
+    birthdate: 1783
+    deathdate: 1840
+    gutenberg_agent_id: '33865'
+    url: http://www.gutenberg.org/2009/agents/33865
+covers:
+- cover_type: archival
+  image_path: 46422-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, Daniel Garrison
+    - Brinton, D. G. (Daniel Garrison)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+description: ''
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46422'
+  lccn: '05013734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delaware language -- Texts'
+- !lcsh 'Picture-writing, Indian'
+- !lcc 'E011'
+- !lcsh 'Delaware Indians'
+title: "The Lenâpé and Their Legends\r\nWith the complete text and symbols of the\
+  \ Walam olum, a new translation, and an inquiry into its authenticity"
+url: http://www.gutenberg.org/ebooks/46422
