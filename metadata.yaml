@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2993
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46422#The-Len-p--and-their-Legends
 gutenberg_issued: '2014-07-26'
 gutenberg_type: Text
 identifiers:
